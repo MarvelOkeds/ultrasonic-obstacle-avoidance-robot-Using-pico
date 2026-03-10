@@ -10,6 +10,7 @@ This project implements an autonomous obstacle avoidance robot using a Raspberry
 - DC Motors
 - Robot Chassis
 - Battery Pack
+- Jumper wires
 
 ## How It Works
 The ultrasonic sensor measures distance to obstacles. When an object is detected within a defined threshold distance, the robot stops and changes direction to avoid the obstacle.
